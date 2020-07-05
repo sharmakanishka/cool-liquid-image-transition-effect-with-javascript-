@@ -8,7 +8,8 @@ try{
     speedIn:2,
     speedOut:5,
     displacementImage:"./stripe1.png"
-}); }
+});
+}
 catch(exception){
     console.log(exception);
 }
